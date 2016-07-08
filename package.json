@@ -1,0 +1,19 @@
+{
+  "name": "comcss",
+  "version": "1.0.0",
+  "description": "common css for project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aslinwang/comcss.git"
+  },
+  "author": "aslinwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aslinwang/comcss/issues"
+  },
+  "homepage": "https://github.com/aslinwang/comcss"
+}
